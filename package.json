@@ -74,7 +74,8 @@
     "protobufjs": "=3.0.0",
     "scrypt": "^6.0.3",
     "sjcl": "=1.0.1",
-    "socks5-client": "~0.3.6"
+    "socks5-client": "~0.3.6",
+    "tribus-hashjs": "git://github.com/yutoteruota/tribus-hashjs.git"
   },
   "testling": {
     "harness": "mocha-bdd",
